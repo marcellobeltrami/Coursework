@@ -1,0 +1,18 @@
+Column Name	Column Description	
+age 	age in years	
+gender 	 Female or Male	
+bmi 	 Body Mass Index (BMI)	
+alcohol_misuse	  value of number of drinks per week (numerical)	
+high_bp 	" Adults who have been told they have high blood pressure by a doctor, nurse, or other health professional  (binary)"	
+high_col 	" Have you EVER been told by a doctor, nurse or other health professional that your blood cholesterol is high?  (binary)"	
+chol_check 	 Cholesterol check within past five years  (binary)	
+history_smoking 	 Have you smoked at least 100 cigarettes in your entire life? [Note	 5 packs = 100 cigarettes]  (binary)
+history_stroke 	 (Ever told) you had a stroke. (binary)	
+history_heart_disease	 Respondents that have ever reported having coronary heart disease (CHD) or myocardial infarction (MI) (binary)	
+amount_activity 	 Adults who reported doing physical activity or exercise during the past 30 days other than their regular job (binary)	
+fruits 	 Consume Fruit 1 or more times per day (binary)	
+vegetables 	 Consume Vegetables 1 or more times per day  (binary)	
+health_gen 	 Would you say that in general your health is	 rate  (numerical score)
+health_men 	" Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?  (numerical score)"	
+health_phys 	" Now thinking about your physical health, which includes physical illness and injury, for how many days during the past 30 days was your physical health not good? (numerical score)"	
+walking_diff 	 Do you have serious difficulty walking or climbing stairs? (binary)	
